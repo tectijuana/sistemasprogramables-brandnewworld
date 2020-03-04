@@ -4,6 +4,6 @@ sistemasprogramables-brandnewworld created by GitHub Classroom
 |  Integrantes  | Parrticipación | Calificación |
 |---------------|----------------|--------------|
 | a) jose loera |                |              |
-| b             |                |              |
+| b  José Iñiguez          |                |              |
 | c             |                |              |
 | d             |                |              |
