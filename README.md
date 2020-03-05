@@ -41,6 +41,7 @@ Caracteristicas
  
  Conecciones 
  |  Sensor Ultrasonico HC-SR04 |  Arduino |
+ |---------------|----------------|
 |VCC|5V|
 |Trig|Pin 11|
 |Echo|Pin 12|
