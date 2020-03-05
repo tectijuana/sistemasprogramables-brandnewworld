@@ -24,8 +24,6 @@ Rango nominal es el rango máximo del campo en el que un sensor puede detectar l
 
 Este sensor tiene un transmisor y un receptor. El transmisor emite rayos infrarrojos que, cuando rebotan después de tocar algún objeto, son captados por el receptor. Sobre la base del tiempo empleado por los rayos de volver al sensor, se puede determinar qué tan lejos o cerca está el objeto del sensor. Estos sensores se utilizan principalmente en aplicaciones donde se requiere la detección de corto alcance.
 
-
-Descripcion
 El sensor ultrasónico HC-SR04 nos permite medir distancias por medio de emisión y rebote de ultrasonidos. Para medir distancias con Arduino podemos hacerlo de diferentes maneras.
 Para que no sea molesto al oído humano, utiliza ultrasonido a una frecuencia de 40 kHz. Estas ondas sonoras tienen una frecuencia muy por encima del espectro audible por los seres humanos.
 El sensor funciona como un sonar, por rebote de la onda. El emisor del HC-SR04 envía un tren de ondas ultrasónicas cuando se activa la señal de disparo (trigger). Este sonido se refleja contra el objeto y retorna. El receptor detecta el momento en que retorna la onda y lo indica en la salida eco (echo).
