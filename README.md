@@ -15,6 +15,7 @@ En el creciente mundo de hoy, la atención y búsqueda de las más innovadoras t
 Los sensores miden la magnitud física y la convierten en una señal que puede ser leída fácilmente por el usuario o un instrumento electrónico simple. Hay varios sensores que trabajan en el campo de la ciencia hoy en día. Algunos sensores están hechos para ser utilizados en la vida cotidiana, mientras que hay muchos sensores que han estado facilitando los seres humanos en la investigación y el campo de la ingeniería.
 
 **Sensor de proximidad**
+
 El propósito básico de un sensor de proximidad es percibir lo que sucede con objeto sin estar en contacto con el. Un sensor de proximidad crea un campo alrededor de él mediante la emisión de radiaciones electromagnéticas. El haz de radiaciones electromagnéticas rastrea cualquier objeto u obstáculo en su camino. El término objetivo se utiliza para el objeto que un sensor de proximidad intuye en su camino. El sensor busca cualquier alteración realizada en su campo. El objetivo general sustituye a un determinado haz del campo o los obstáculos de su proyección. Diferentes campos o sensores se utilizan para detectar diferentes objetivos.
 
 La falta de contacto físico con el objetivo por lo general hace un incremento en la vida de un sensor de proximidad. La ausencia de piezas mecánicas lo hace más confiable y le otorga una larga vida.
