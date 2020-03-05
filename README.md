@@ -8,5 +8,5 @@ sistemasprogramables-brandnewworld created by GitHub Classroom
 | c  Rodrigo Reyes            |                |              |
 | d) Daniel García             |                |              |
 # Sensor ultrasónico HC-SR04
-#Descripcion
+Descripcion
 
