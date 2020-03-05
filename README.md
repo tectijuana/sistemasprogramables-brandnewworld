@@ -7,7 +7,7 @@ sistemasprogramables-brandnewworld created by GitHub Classroom
 | b  José Iñiguez          |                |              |
 | c  Rodrigo Reyes            |                |              |
 | d) Daniel García             |                |              |
-
+# Sensor ultrasónico HC-SR04
 # Descripción
 
 En el creciente mundo de hoy, la atención y búsqueda de las más innovadoras tecnologías, sin duda son los Sensores. El propio sensor define qué esta tecnología se ha desarrollado es decir, la detección de la diana o la señal. La definición formal va como Un dispositivo que detecta la presencia o ausencia de un objeto, o ciertas propiedades de ese objeto, y provee retroalimentación sin entrar en contacto con ellos.
@@ -23,7 +23,7 @@ Rango nominal es el rango máximo del campo en el que un sensor puede detectar l
 
 Este sensor tiene un transmisor y un receptor. El transmisor emite rayos infrarrojos que, cuando rebotan después de tocar algún objeto, son captados por el receptor. Sobre la base del tiempo empleado por los rayos de volver al sensor, se puede determinar qué tan lejos o cerca está el objeto del sensor. Estos sensores se utilizan principalmente en aplicaciones donde se requiere la detección de corto alcance.
 
-# Sensor ultrasónico HC-SR04
+
 Descripcion
 El sensor ultrasónico HC-SR04 nos permite medir distancias por medio de emisión y rebote de ultrasonidos. Para medir distancias con Arduino podemos hacerlo de diferentes maneras.
 Para que no sea molesto al oído humano, utiliza ultrasonido a una frecuencia de 40 kHz. Estas ondas sonoras tienen una frecuencia muy por encima del espectro audible por los seres humanos.
