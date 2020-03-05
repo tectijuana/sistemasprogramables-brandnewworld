@@ -29,26 +29,6 @@ El sensor ultrasónico HC-SR04 nos permite medir distancias por medio de emisió
 Para que no sea molesto al oído humano, utiliza ultrasonido a una frecuencia de 40 kHz. Estas ondas sonoras tienen una frecuencia muy por encima del espectro audible por los seres humanos.
 El sensor funciona como un sonar, por rebote de la onda. El emisor del HC-SR04 envía un tren de ondas ultrasónicas cuando se activa la señal de disparo (trigger). Este sonido se refleja contra el objeto y retorna. El receptor detecta el momento en que retorna la onda y lo indica en la salida eco (echo).
 
-**Tipos de Sensores de Proximidad**
-
-Hay varios tipos de sensores de proximidad en el mercado aparte del ultrasónico HC-SR04 , que dependiendo del material a  detectar, las condiciones y el ambiente se utilizará un tipo de sensor de proximidad o otro.
-
-* Sensores de Proximidad magnéticos:
-Detectan la proximidad de un campo magnético, normalmente el objeto a detectar tiene un imán acoplado.
-* Sensores de Proximidad inductivos:
-Detectan la proximidad de objetos compuestos de materiales metálicos.
-* Sensores de Proximidad Capacitivos:
-Detectan la aproximación de cualquier tipo de material.
-* Sensores de Proximidad Ópticos:
-Detectan objetos por medios ópticos y electrónicos. Hay varios tipos de sensores de proximidad ópticos .
-* Sensores de barrera:
-Consta de emisor y receptor enfrentados el uno al otro, detectando la interrupción del rayo de luz al cruzar un objeto entre medio.
-* Sensores de retroreflexion:
-El emisor y el receptor están en el mismo cuerpo, haciendo que el receptor reciba la luz a través de un reflector.
-* Sensores de reflexión directa:
-El emisor y el receptor están en el mismo cuerpo pero en este caso la reflexión la realiza el mismo objeto a detectar activando el receptor a su paso.
-* Sensores ópticos de proximidad con cables de fibra óptica:
-Se puede aplicar como sensor de barrera teniendo emisor y  receptor enfrentados, detectando el objeto al pasar entre los dos. Los sensores de fibra óptica también tienen  modelos con emisor y receptor en el mismo encapsulado y reflexión directa.
 
 ## Caracteristicas 
  * Fuente De Poder :+5V DC
@@ -81,7 +61,7 @@ Se puede aplicar como sensor de barrera teniendo emisor y  receptor enfrentados,
 |  Titulo |Tipo    |  Tamaño(KB) |Fecha   |
 |---|---|---|---|
 |https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf   | PDF|  78KB | 3 Junio 2018|
-|https://automantenimiento.net/electricidad/tipos-de-sensores-de-proximidad/   | WEB|  78KB | 1 Julio 2017|
+
 
 
 
