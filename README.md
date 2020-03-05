@@ -5,5 +5,5 @@ sistemasprogramables-brandnewworld created by GitHub Classroom
 |---------------|----------------|--------------|
 | a) jose loera |                |              |
 | b  José Iñiguez          |                |              |
-| c             |                |              |
+| c  Rodrigo Reyes            |                |              |
 | d) Daniel García             |                |              |
