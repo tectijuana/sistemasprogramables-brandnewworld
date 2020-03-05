@@ -38,3 +38,10 @@ Caracteristicas
  * Resolucion : 0.3 cm
  * Angulos Medibles: 30 Grados
  * Dimensiones : 45mmx20mmx15mm
+ 
+ Conecciones 
+ |  Sensor Ultrasonico HC-SR04 |  Arduino |
+|VCC|5V|
+|Trig|Pin 11|
+|Echo|Pin 12|
+|GND| GND|
