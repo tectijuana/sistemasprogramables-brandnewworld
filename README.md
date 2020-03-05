@@ -7,8 +7,9 @@ sistemasprogramables-brandnewworld created by GitHub Classroom
 | b  José Iñiguez          |                |              |
 | c  Rodrigo Reyes            |                |              |
 | d) Daniel García             |                |              |
+
 # Sensor ultrasónico HC-SR04
-# Descripción
+## Descripción
 
 En el creciente mundo de hoy, la atención y búsqueda de las más innovadoras tecnologías, sin duda son los Sensores. El propio sensor define qué esta tecnología se ha desarrollado es decir, la detección de la diana o la señal. La definición formal va como Un dispositivo que detecta la presencia o ausencia de un objeto, o ciertas propiedades de ese objeto, y provee retroalimentación sin entrar en contacto con ellos.
 
