@@ -33,9 +33,9 @@ El sensor funciona como un sonar, por rebote de la onda. El emisor del HC-SR04 e
 
 Hay varios tipos de sensores de proximidad en el mercado aparte del ultrasónico HC-SR04 , que dependiendo del material a  detectar, las condiciones y el ambiente se utilizará un tipo de sensor de proximidad o otro.
 
-Sensores de Proximidad magnéticos:
+*Sensores de Proximidad magnéticos:
 Detectan la proximidad de un campo magnético, normalmente el objeto a detectar tiene un imán acoplado.
-Sensores de Proximidad inductivos:
+*Sensores de Proximidad inductivos:
 Detectan la proximidad de objetos compuestos de materiales metálicos.
 Sensores de Proximidad Capacitivos:
 Detectan la aproximación de cualquier tipo de material.
