@@ -14,4 +14,11 @@ Para que no sea molesto al oído humano, utiliza ultrasonido a una frecuencia de
 El sensor funciona como un sonar, por rebote de la onda. El emisor del HC-SR04 envía un tren de ondas ultrasónicas cuando se activa la señal de disparo (trigger). Este sonido se refleja contra el objeto y retorna. El receptor detecta el momento en que retorna la onda y lo indica en la salida eco (echo).
 
 Caracteristicas 
- * Unordered sub-list. 
+ * Fuente De Poder :+5V DC
+ * Corriente de Reposo : <2mA
+ * Corriente Funcional : 15mA
+ * Angulo Efectivo : <15°
+ * Distancia Aproximada : 2cm – 400 cm/1″ – 13ft
+ * Resolucion : 0.3 cm
+ * Angulos Medibles: 30 Grados
+ * Dimensiones : 45mmx20mmx15mm
