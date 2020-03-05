@@ -29,7 +29,7 @@ El sensor ultrasónico HC-SR04 nos permite medir distancias por medio de emisió
 Para que no sea molesto al oído humano, utiliza ultrasonido a una frecuencia de 40 kHz. Estas ondas sonoras tienen una frecuencia muy por encima del espectro audible por los seres humanos.
 El sensor funciona como un sonar, por rebote de la onda. El emisor del HC-SR04 envía un tren de ondas ultrasónicas cuando se activa la señal de disparo (trigger). Este sonido se refleja contra el objeto y retorna. El receptor detecta el momento en que retorna la onda y lo indica en la salida eco (echo).
 
-Caracteristicas 
+## Caracteristicas 
  * Fuente De Poder :+5V DC
  * Corriente de Reposo : <2mA
  * Corriente Funcional : 15mA
@@ -39,7 +39,8 @@ Caracteristicas
  * Angulos Medibles: 30 Grados
  * Dimensiones : 45mmx20mmx15mm
  
- Conexiones 
+## Conexiones 
+ 
  |  Sensor Ultrasonico HC-SR04 |  Arduino |
  |---------------|----------------|
 |VCC|5V|
@@ -47,6 +48,7 @@ Caracteristicas
 |Echo|Pin 12|
 |GND| GND|
 ## Datasheet
+
 |  Titulo |Tipo    |  Tamaño(KB) |Fecha   |
 |---|---|---|---|
 |https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf   | PDF|  78KB | 3 Junio 2018|
