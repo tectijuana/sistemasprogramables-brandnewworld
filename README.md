@@ -46,3 +46,7 @@ Caracteristicas
 |Trig|Pin 11|
 |Echo|Pin 12|
 |GND| GND|
+## Datasheet
+|  Titulo |Tipo    |  Tamaño(KB) |Fecha   |
+|---|---|---|---|
+|https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf   | PDF|  78KB | 3 Junio 2018|
