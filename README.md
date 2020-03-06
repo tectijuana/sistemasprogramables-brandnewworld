@@ -73,6 +73,6 @@ El sensor funciona como un sonar, por rebote de la onda. El emisor del HC-SR04 e
 |https://create.arduino.cc/projecthub/IESGRANCAPITAN/apertura-y-cierre-de-puerta-con-sensor-ultrasonidos-f5ce24|
 
 
-![Image description](https://hacksterio.s3.amazonaws.com/uploads/attachments/906499/esquema_electrico_Iqs6L4Sh5w.png)
+
 
 
