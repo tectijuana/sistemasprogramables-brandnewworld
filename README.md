@@ -65,6 +65,7 @@ El sensor funciona como un sonar, por rebote de la onda. El emisor del HC-SR04 e
 |  Titulo |Tipo    |  Tamaño(KB) |Fecha   |
 |---|---|---|---|
 |https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf   | PDF|  78KB | 3 Junio 2018|
+|https://angelmicelti.github.io/4ESO/ARD/detector_de_aparcamiento_con_ultrasonidos.html|ejemplo|||
 
 
 
