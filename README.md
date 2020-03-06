@@ -57,15 +57,18 @@ El sensor funciona como un sonar, por rebote de la onda. El emisor del HC-SR04 e
 | https://articulo.mercadolibre.com.mx/MLM-552023219-sensor-ultrasonico-hc-sr04-medicion-de-distancia-nivel-hcsr04-_JM?quantity=1#position=1&type=item&tracking_id=3a126476-e422-4175-a266-51c2ce8cf6cf  | $164 |  Mercado Libre  |
 | https://es.aliexpress.com/item/32477198302.html?spm=a2g0o.productlist.0.0.79fd5942cjP27m&algo_pvid=123ed171-5df1-4053-98f7-100ef661c3b8&algo_expid=123ed171-5df1-4053-98f7-100ef661c3b8-2&btsid=0bb47a1915834369393787902e1401&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_ | $13.69   | Aliexpress  |
 
+## Esquema Electrico
+<img src="https://www.prometec.net/wp-content/uploads/2014/10/Img_18_11.jpg" />
 
-
+## Diagrama de Conexion
+<img src="https://www.prometec.net/wp-content/uploads/2014/10/Img_18_2.jpg" />
 
 ## Datasheet
 
 |  Titulo |Tipo    |  Tamaño(KB) |Fecha   |
 |---|---|---|---|
 |https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf   | PDF|  78KB | 3 Junio 2018|
-|https://angelmicelti.github.io/4ESO/ARD/detector_de_aparcamiento_con_ultrasonidos.html|HTML |15.5 MB|1 Marzo 2018|
+|https://angelmicelti.github.io/4ESO/ARD/detector_de_aparcamiento_con_ultrasonidos.html|ejemplo|||
 
 
 
